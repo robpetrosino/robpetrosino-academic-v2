@@ -1,0 +1,20 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Some basic definitions - recap}{2}
+\contentsline {section}{\numberline {2}Abstractness level 1 -- {\itshape features} and {\itshape natural classes}}{3}
+\contentsline {subsection}{\numberline {2.1}Activity 1: Natural classes}{4}
+\contentsline {subsection}{\numberline {2.2}Activity 2: British English vs American English}{4}
+\contentsline {section}{\numberline {3}Abstractness level 2 -- fundamental notions}{5}
+\contentsline {subsection}{\numberline {3.1}Activity 3: Finding English phonemes}{6}
+\contentsline {subsection}{\numberline {3.2}Activity 4: English aspirated stops}{6}
+\contentsline {subsection}{\numberline {3.3}Major phonological operations}{7}
+\contentsline {subsubsection}{\numberline {3.3.1}Activity 5a: Assimilation (I)}{7}
+\contentsline {subsubsection}{\numberline {3.3.2}Activity 5b: Assimilation (II)}{7}
+\contentsline {subsection}{\numberline {3.4}Morphology 101}{8}
+\contentsline {subsubsection}{\numberline {3.4.1}Activity 6a: English plurals (I)}{9}
+\contentsline {section}{\numberline {4}Abstractness level 3: beyond the veil of Maya}{10}
+\contentsline {subsection}{\numberline {4.1}Activity 6b: English plurals (II)}{12}
+\contentsline {subsection}{\numberline {4.2}Activity 7: English flapping}{13}
+\contentsline {subsection}{\numberline {4.3}Activity 8: Indonesian prefixes}{14}
+\contentsline {section}{\numberline {5}Recap}{15}
+\contentsline {section}{\numberline {A}Little Handbook of phonological features}{16}
+\contentsline {section}{\numberline {B}Chart of phonological features}{17}

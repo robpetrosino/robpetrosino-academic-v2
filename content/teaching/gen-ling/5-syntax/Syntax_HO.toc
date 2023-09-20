@@ -1,0 +1,12 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Basic concepts (back to week 1)}{2}
+\contentsline {subsection}{\numberline {1.1}Activity 1: Tacit knowledge.}{2}
+\contentsline {section}{\numberline {2}Syntax}{3}
+\contentsline {subsection}{\numberline {2.1}Activity 2: Patterns and categories}{4}
+\contentsline {section}{\numberline {3}Syntactic rules and trees}{4}
+\contentsline {subsection}{\numberline {3.1}Activity 3: Rewriting rules and tree diagrams}{6}
+\contentsline {section}{\numberline {4}Semantic Ambiguity}{8}
+\contentsline {subsection}{\numberline {4.1} Activity 4: Ambiguity}{8}
+\contentsline {section}{\numberline {5}Studying grammars}{9}
+\contentsline {section}{\numberline {6}Constituency}{10}
+\contentsline {section}{\numberline {7}Recap}{12}

@@ -1,0 +1,40 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About
+    url: '#about'
+    weight: 10
+  - name: Research
+    url: '#projects'
+    weight: 20
+  - name: Papers
+    url: '#papers'
+    weight: 30
+  - name: Teaching
+    url: 'teaching'
+    weight: 40
+    identifier: teaching
+  - name: R course
+    url: 'teaching/r-workshop/_index.md'
+    weight: 10
+    parent: teaching
+  - name: Linguistics
+    url: 'teaching/gen-ling/_index.md'
+    weight: 20
+    parent: teaching
+  - name: Pāṇīṇī
+    url: 'panini/'
+    weight: 50
+  - name: Crossfit
+    url: 'crossfit/'
+    weight: 60
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
