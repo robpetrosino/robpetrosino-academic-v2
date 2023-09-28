@@ -1,19 +1,19 @@
-+++
-title = "Prime masking in the auditory modality"
-type = "projects"
-tags = ["processing", "decomposition", "methods", "morphology"]
+---
+title: "Prime masking in the auditory modality"
+type: "projects"
+tags: ["processing", "decomposition", "methods"]
 
-share = false
-profile = false
+share: false
+profile: false
 
-lastmod = 2021-03-25
+lastmod: 2021-03-25
 
-authors = ["robpetro", "jon", "diogo"]
+authors: ["robpetro", "jon", "diogo"]
 
-[design]
+design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-+++
+  columns: "1"
+---
 
 Most psycholinguistic research on morphological decomposition has been conducted in the [visual modality]({{< relref "/content/projects/decomposition.md" >}}). The main reason for this is that our current behavioral methodologies seem unable to investigate auditory decomposition at the subliminal level of processing. Since auditory stimuli typically unfold over time, the masking procedure of auditory prime stimuli is particularly harder to implement. In recent years, however, the pioneering study by Kouider & Dupoux (2005) has provided an interesting way to implement prime masking in auditory priming. This technique resembles the typical prime-target sound stream, but features the following specifics (see the figure below). All primes are first intensity-attenuated and then time-compressed, so that their original duration was reduced to usually between 35\% and 40\% of their original duration. Randomly selected, attenuated, and time-compressed primes are also time-reversed to create auditory masks. Each time-compressed prime is preceded by one mask and followed by four other different masks; the target word (at normal speech rate and volume) is imposed over the sequence of masks and prime so that the onset of the target coincided with the offset of the prime. 
 

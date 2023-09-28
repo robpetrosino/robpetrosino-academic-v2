@@ -1,22 +1,13 @@
-+++
-title = "Morphological decomposition: more than islands of regularity?"
-type = "projects"
-tags = ["morphology", "processing", "decomposition"]
+---
+title: "Morphological decomposition: more than islands of regularity?"
+type: "projects"
+tags: ["processing", "decomposition"]
 
-authors = ["robpetro", "jon", "diogo"]
+authors: ["robpetro", "jon", "diogo"]
 
-share = false
-profile = false
-
-lastmod = 2021-03-25
-
-weight = 10
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-+++
-
+share: false
+profile: false
+---
 
 A wealth of psycholinguistic evidence has shown that words, before being visually recognized, decompose into smaller units which seem to correspond to morphemes (Rastle et al., 2000, 2004). Such a procedure of _morphological decomposition_ seems to occur in words that are made of more than one morpheme, independently of whether they are semantically transparent (e.g., _driver_, which means "someone who drives") or not (e.g., _brother_, which does not mean "someone who broths"). Decomposition, however, does not seem to occur in words that contain a root plus an additional, non-morphemic string (e.g., _brothel_, where _el_ is not an English suffix). Current models of visual word processing assume the *morpho-orthographic decomposition hypothesis*, whereby decomposition obligatorily relies on _islands of regularity_ -- namely, statistical orthographic regularities across letter strings, so that a string such as _er_ is detected as a single morpho-orthographic unit, but _el_ is not (Rastle \& Davis 2008). As such, decomposition is also argued to occur at early stages of word processing and _before_ contact with the lexicon --- namely, before semantic information is accessed, so that decomposition occurs regardless of semantic transparency. In my doctoral dissertation, I built on these findings and use the visual masked priming response to test the sensitivity of decomposition to any of the following higher-level linguistic properties (in addition to islands of regularities): phono-orthographic syllabification, whole-word frequency, phonological conditioning, and syntactic well-formedness. 
 

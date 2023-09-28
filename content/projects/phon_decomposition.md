@@ -1,19 +1,15 @@
-+++
-  title = "Phonology-driven decomposition"
-  type = "projects"
-  tags = ["morphology", "processing", "decomposition"]
+---
+  title: "Phonology-driven decomposition"
+  type: "projects"
+  tags: ["phonology", "processing", "decomposition"]
 
-  authors = ["robpetro", "jon"]
+  authors: ["robpetro", "jon"]
   
-  lastmod = 2021-03-25
+  lastmod: 2021-03-25
 
-  share = false
-  profile = false
-
-  [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-+++
+  share: false
+  profile: false
+---
 
 This project asks whether decomposition is affected by phonologically-conditioned morphological alternations, in which the alternants realize the same value of a given morpho-syntactic feature and can be accounted for by assuming language-wide, regular phonological operations triggered by the surrounding phonological context. For example, the realization of this prefix "_in_" alternates between [im] and [in], on whether the following root-initial phonological segment is a labial consonant or not: _i[n]tollerable_ vs. _i[m]possible_. These alternations are generally dealt with as resulting from general phonological processes (_rules_ and/or _constraints_) operating on a single underlying form. In the example above, it is generally assumed that the underlying form of the prefix _in_ is [in], in which the nasal becomes [m] via an assimilation process triggered in front of labial sounds. One way to test this is to elicit the priming response to word pairs in which each alternant occurs either as a prime or as a target: e.g., _intollerable-IMPOSSIBLE_ and _impossible-INTOLLERABLE_. In doing this, we ask two different, but related questions. The first question asks whether decomposition is able to detect the morpho-phonological relationship between alternating realizations of the same morpheme. The second question asked whether decomposition is able to detect the morpho-phonological asymmetry between phonologically-conditioned alternants, whereby one alternant (i.e., [im] phonologically derives from the other (i.e., [in]).
 

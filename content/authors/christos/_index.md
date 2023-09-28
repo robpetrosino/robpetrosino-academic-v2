@@ -19,7 +19,6 @@ superuser: false
 # Organizations/Affiliations
 organizations:
 - name: Department of Linguistics, University of Connecticut
-  url: "http://linguistics.uconn.edu"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 

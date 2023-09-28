@@ -1,17 +1,13 @@
-+++
-  title = "Priming effects and prime time processing"
-  type = "projects"
-  tags = ["processing", "decomposition", "methods"]
+---
+  title: "Priming effects and prime time processing"
+  type: "projects"
+  tags: ["processing", "decomposition", "methods"]
 
-  share = false
-  profile = false
+  share: false
+  profile: false
 
-  lastmod = 2021-03-25
-
-  [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-+++
+  lastmod: 2021-03-25
+---
 
 The current psycholinguistic literature on visual morphological decomposition makes a great use of the visual masked priming design. Generally speaking, the priming design consists of two stimuli being presented one after the other; the first stimulus is called _prime_, the second is called _target_. The experimental task always concerns the target stimulus, and it is typically a lexical decision task, in which subjects are asked to decide whether the target stimulus is an existing word by pressing a response button box. It has been shown that recognition of the target stimulus is faster when it is related to the prime stimulus to some degree: e.g., the target word _CAT_ is recognized as a word faster when it is preceded by a semantically related prime word like _kitten_ than when it is preceded by an unrelated prime word like _hand_. Visual morphological decomposition is typically investigated by adopting a sub-type of the visual priming design: the _masked_ priming design (Forster & Davis 1984), in which 'mask' (that is, a series of hashmarks, #######) is presented for about 500 ms before the prime stimulus, which is usually presented for 30-70 ms. At such a short duration, primes are not consciously recognizable to subjects. The advantage of the masked priming technique is two-fold: 
 

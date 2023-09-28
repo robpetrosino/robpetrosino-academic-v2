@@ -11,26 +11,26 @@ main:
     url: '#projects'
     weight: 20
   - name: Papers
-    url: '#papers'
+    url: '#publication'
     weight: 30
-  - name: Teaching
+  - name: Courses
     url: 'teaching'
     weight: 40
     identifier: teaching
-  - name: R course
-    url: 'teaching/r-workshop/_index.md'
+  - name: Stats with R
+    url: 'teaching/r-workshop/'
     weight: 10
     parent: teaching
   - name: Linguistics
-    url: 'teaching/gen-ling/_index.md'
+    url: 'teaching/gen-ling/'
     weight: 20
     parent: teaching
   - name: Pāṇīṇī
     url: 'panini/'
     weight: 50
-  - name: Crossfit
-    url: 'crossfit/'
-    weight: 60
+#  - name: Crossfit
+#    url: 'crossfit/'
+#    weight: 60
 
 
 # Link to a PDF of your resume/CV from the menu.

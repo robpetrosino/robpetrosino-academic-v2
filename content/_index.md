@@ -56,8 +56,8 @@ sections:
       filters:
         folders:
           - projects
-      sort_by: 'Date'
-      sort_ascending: false
+      sort_by: 'Title'
+      sort_ascending: true
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -66,8 +66,8 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: phonology
-          tag: phonology
+        - name: all
+          tag: "*"
         - name: morphology
           tag: morphology
         - name: decomposition
@@ -78,20 +78,21 @@ sections:
           tag: methods
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
-    id: papers
+    id: publication
     content:
-      title: Downloadable papers
-      sort_by: 'Title'
-      count: 5
+      title: Papers
+      sort_by: 'Date'
+      count: 0
+      offset: 1
       filters:
         folders:
-          - papers
+          - publication
     design:
       columns: '2'
-      view: compact
+      view: citation
 ---

@@ -1,19 +1,15 @@
-+++
-  title = "Lexical selectivity in visual morphological decomposition"
-  type = "projects"
-  tags = ["morphology", "processing", "decomposition"]
+---
+  title: "Lexical selectivity in visual morphological decomposition"
+  type: "projects"
+  tags: ["processing", "decomposition"]
 
-  share = false
-  profile = false
+  share: false
+  profile: false
   
-  lastmod = 2021-03-25
+  lastmod: 2021-03-25
   
-  authors = ["robpetro", "jon", "diogo"]
-
-  [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-+++
+  authors: ["robpetro", "jon", "diogo"]
+---
 
 In some preliminary results reported in my {{% staticref "uploads/Petrosino_Dissertation2020.pdf" %}}dissertation{{% /staticref %}}, priming effects are shown to arise for specific affixes: i.e., _-able_, _-ful_, _im-_, _-ity_, _-ment_, _-ness_, _-s_; but not for others: _dis-_, _in-_, _-er_. These unexpected results suggest a _lexically selective_ procedure of visual morphological decomposition, which is contingent on some property (let it be purely orthographical or, rather, more linguistically abstract) associated to the affix being involved.
 

@@ -18,7 +18,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Linguistics, University of Connecticut
+- name: New York University Abu Dhabi
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 

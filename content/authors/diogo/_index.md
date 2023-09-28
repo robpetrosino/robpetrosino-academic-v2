@@ -18,7 +18,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: New York University Abu Dhabi (NYUAD)
+- name: New York University Abu Dhabi
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
