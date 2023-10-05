@@ -18,3 +18,4 @@ type: book
 weight: 2
 ---
 
+⚠️⚠️⚠️ The course was taught a few years ago (2018), so it might not be up-to-date. ⚠️⚠️⚠️ 
