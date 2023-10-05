@@ -56,7 +56,7 @@ social:
    link: https://github.com/robpetrosino
  - icon: cv
    icon_pack: ai
-   link: uploads/Petrosino_CV.pdf
+   link: uploads/Petrosino_CV_2023.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
