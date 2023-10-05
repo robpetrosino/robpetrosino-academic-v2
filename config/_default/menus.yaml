@@ -7,11 +7,20 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#projects'
+  - name: Research topics
+    url: 'project'
     weight: 20
+    identifier: project
+  - name: Richness
+    url: 'project/richness/'
+    weight: 10
+    parent: project
+  - name: Alternations
+    url: 'project/alternations/'
+    weight: 20
+    parent: project
   - name: Papers
-    url: '#publication'
+    url: 'publication'
     weight: 30
   - name: Courses
     url: 'teaching'
@@ -21,7 +30,7 @@ main:
     url: 'teaching/r-workshop/'
     weight: 10
     parent: teaching
-  - name: Linguistics
+  - name: Science of Linguistics
     url: 'teaching/gen-ling/'
     weight: 20
     parent: teaching

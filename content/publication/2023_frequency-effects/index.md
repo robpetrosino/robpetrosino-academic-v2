@@ -24,8 +24,7 @@ publication_types: ["3"]
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- primeTime
-- decomposition
+- richness
   
 url_pdf: 'publication/2023_frequency-effects/frequency-effects_draft-2.pdf'
 

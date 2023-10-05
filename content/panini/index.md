@@ -16,4 +16,4 @@ comments: false  # Show comments?
 draft: false
 ---
 
-{{< gallery album="panini" >}}
+{{< gallery album="panini" Fit="50x50" >}}

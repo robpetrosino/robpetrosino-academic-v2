@@ -22,7 +22,8 @@ publication_types: ["6"]
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- alternations
   
 url_pdf: 'publication/2022_palatalization/PetrosinoCalabrese2022_palatalization-Romance.pdf'
 

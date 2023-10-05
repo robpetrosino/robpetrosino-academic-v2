@@ -1,7 +1,13 @@
 ---
-title: Statistics and data analysis with R
+title: 📈 Statistics and data analysis with R
 
 summary: Basic introduction to R language programming for data analysis, data visualization (plotting), and statistical analysis. 
+
+links:
+    -  icon_pack: fa
+       icon: file-zipper
+       name: Scripts
+       url: /teaching/r-workshop/r-workshop_scripts.zip
 
 type: book
 weight: 1

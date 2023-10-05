@@ -47,9 +47,9 @@ footer:
   copyright:
     notice: '© {2023} RP'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/robpetrosino/robpetrosino-academic-v2'
     content_dir: content
     branch: main
   avatar:
@@ -100,6 +100,13 @@ features:
     api_key: ''
     zoom: 15
 
+# project view settings
+
+projects:
+  post_view: compact
+  publication_view: citation
+  talk_view: compact
+
 # Extensions
 
 extensions:
@@ -114,3 +121,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# pdf embedding API key
+pdf_embed_api_key:

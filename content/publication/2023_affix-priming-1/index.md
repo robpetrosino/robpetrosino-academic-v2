@@ -24,8 +24,7 @@ publication_types: ["1"]
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- decomposition
-- sel_decomposition
+- richness
 
 url_pdf: 'publication/affix-priming-1/7_Petrosino_26lug23.pdf'
 

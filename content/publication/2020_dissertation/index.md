@@ -22,11 +22,7 @@ profile: false  # Show author profile?
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- decomposition
-- dominance_decomposition
-- phon_decomposition
-- sel_decomposition
-- primeTime
+- richness
   
 url_pdf: 'publication/2020_dissertation/Petrosino_Dissertation2020.pdf'
 

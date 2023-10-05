@@ -8,6 +8,8 @@ tags : ["phonology", "morphology"]
 
 date: 2023-09-23
 
+draft: true
+
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 
@@ -23,7 +25,7 @@ publication_types: ["3"]
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- decomposition
+- richness
   
 url_pdf: 'publication/2023_rastle-meta/syllabicity-rastle_meta_draft.pdf'
 

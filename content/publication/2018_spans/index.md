@@ -1,9 +1,12 @@
 ---
 title : "Greek Root Allomorphy without Spans"
+
 type : "publication"
+
 authors:
-- robpetro
 - christos
+- robpetro
+
 tags : ["morphology"]
 
 date: 2018-01-02
@@ -22,8 +25,8 @@ publication_types: ["1"]
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- allomorphy
+projects: 
+  - alternations
   
 url_pdf: 'publication/2018_spans/ChristopoulosPetrosino_GreekSpans_WCCFL.pdf'
 url_slides: 'publication/2018_spans/ChristopoulosPetrosino_GreekSpans_WCCFL_slides.pdf'

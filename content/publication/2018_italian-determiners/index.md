@@ -22,7 +22,7 @@ publication_types: ["6"]
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- allomorphy
+- alternations
   
 url_pdf: 'publication/2018_italian-determiners/Petrosino_BeyondMaya_2018.pdf'
 url_slides: 'publication/2018_italian-determiners/Petrosino_TEAM2018.pdf'
