@@ -26,7 +26,7 @@ publication_types: ["1"]
 projects:
 - richness
 
-url_pdf: 'publication/2023_affix-priming-1/_Petrosino_26lug23.pdf'
+url_pdf: 'publication/2023_affix-priming-1/7_Petrosino_26lug23.pdf'
 
 
 ---
