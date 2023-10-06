@@ -6,4 +6,4 @@ weight: 20
 ---
 
 
-{{% embed_pdf url="www.robertopetrosino.com/teaching/gen-ling/2-phonetics/Phonetics_HO.pdf" filename="Phonetics_HO.pdf" %}}
+{{% embed_pdf url="Phonetics_HO.pdf" filename="Phonetics_HO.pdf" %}}

@@ -1,5 +1,5 @@
 {{ $divId := .Get "divId" | default "adobe-dc-view" }}
-{{ $style := .Get "style" | default "width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" | safeCSS }}
+{{ $style := .Get "style" | default "width: 100%; position: relative;" | safeCSS }}
 {{ $clientID := site.Params.pdf_embed_api_key }}
 {{ $locale := .Get "locale" }}
 {{ $url := .Get "url" }}
