@@ -123,4 +123,4 @@ security:
   allow_frame: true
 
 # pdf embedding API key
-pdf_embed_api_key: '80cd9a974b7f4b0c835363a452d3da5d'
+pdf_embed_api_key:
