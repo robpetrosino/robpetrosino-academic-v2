@@ -1,5 +1,6 @@
 ---
 title: Syntax
+toc: false
 
 type: book
 weight: 50

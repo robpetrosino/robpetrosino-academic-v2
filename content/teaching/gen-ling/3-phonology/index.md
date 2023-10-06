@@ -1,5 +1,6 @@
 ---
 title: Phonology 
+toc: false
 
 type: book
 weight: 30

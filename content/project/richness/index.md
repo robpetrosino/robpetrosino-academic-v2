@@ -9,7 +9,7 @@
   lastmod: 2021-03-25
 ---
 
-This strand of my program explores the **richness** of (i.e., the amount of information associated with) the phonological and morphological representations that are stored in the lexicon. 
+This strand of my program explores the the amount of information associated with the phonological and morphological representations that are stored in the lexicon. 
 
 ## Phonological representations
 

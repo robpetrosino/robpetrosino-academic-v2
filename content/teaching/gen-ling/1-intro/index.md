@@ -1,5 +1,6 @@
 ---
 title: Intro to linguistics 
+toc: false
 
 type: book
 weight: 1

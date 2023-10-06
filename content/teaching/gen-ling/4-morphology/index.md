@@ -1,5 +1,6 @@
 ---
 title: Morphology
+toc: false
 
 type: book
 weight: 40
