@@ -1,7 +1,7 @@
 {{ $divId := .Get "divId" | default "adobe-dc-view" }}
 {{ $style := .Get "style" | default "width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" | safeCSS }}
 {{ $clientID := site.Params.pdf_embed_api_key }}
-{{ $locale := .Get "locale" | default "en-EN" }}
+{{ $locale := .Get "locale" }}
 {{ $url := .Get "url" }}
 {{ $pathBase := path.Base $url }}
 {{ $filename := .Get "filename" | default $pathBase }}
