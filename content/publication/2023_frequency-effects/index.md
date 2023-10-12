@@ -1,5 +1,5 @@
 ---
-title : "Interactive effects of word frequency and masked repetition in the lexical decision task: A large scale online study."
+title : "Interactive effects of word frequency and masked repetition in the lexical decision task: A large scale online study"
 type : "publication"
 authors:
 - robpetro
