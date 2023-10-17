@@ -19,3 +19,5 @@ weight: 2
 ---
 
 ⚠️⚠️⚠️ The course was taught a few years ago (2018), so it might not be up-to-date. ⚠️⚠️⚠️ 
+
+{{% embed_pdf url="LING2010Q_Syllabus_F17.pdf" filename="LING2010Q_Syllabus_F17.pdf" %}}
