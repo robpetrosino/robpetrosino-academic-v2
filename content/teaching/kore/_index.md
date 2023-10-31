@@ -11,6 +11,9 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 private: true # do not show in search results
 
+type: book
+weight: 3
+
 ---
 
 Per partecipare all'esperimento, andate a questo link:
