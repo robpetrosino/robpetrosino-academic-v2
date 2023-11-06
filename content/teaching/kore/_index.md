@@ -27,4 +27,4 @@ links:
 
 ---
 
-<iframe src="https://nyu0-my.sharepoint.com/personal/rp3650_nyu_edu/_layouts/15/Doc.aspx?sourcedoc={bbd1a30f-9594-48aa-8727-5e05114bb75b}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQ8jmjVyKM9fsHYd_gAslC26UuU8UfJqyWylojajcWtoliH6hATA2zpgfez8oMoobftT8tu1txaGFoH/embed?start=false&loop=false&delayms=30000" >}}
