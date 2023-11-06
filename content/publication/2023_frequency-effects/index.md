@@ -25,7 +25,11 @@ publication_types: ["3"]
 projects:
 - richness
   
-url_pdf: 'publication/2023_frequency-effects/frequency-effects_draft-2.pdf'
+links:
+  - name: pdf
+    url: 'publication/2023_frequency-effects/frequency-effects_draft-2.pdf'
+  - name: poster
+    url: 'publication/2023_frequency-effects/frequency-effects_SNL2023_poster.pdf'
 
 ---
 
