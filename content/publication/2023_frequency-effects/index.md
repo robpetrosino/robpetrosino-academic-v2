@@ -26,9 +26,9 @@ projects:
 - richness
   
 links:
-  - name: pdf
+  - name: PDF
     url: 'publication/2023_frequency-effects/frequency-effects_draft-2.pdf'
-  - name: poster
+  - name: Poster
     url: 'publication/2023_frequency-effects/frequency-effects_SNL2023_poster.pdf'
 
 ---

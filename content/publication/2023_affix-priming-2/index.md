@@ -7,7 +7,7 @@ authors:
 - diogo
 tags : ["morphology", "decomposition", "processing"]
 
-date: 2023-09-25
+date: 2023-10-27
 
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
@@ -29,7 +29,7 @@ projects:
 links:
   #- name: pdf
   #  url: 'publication/2023_affix-priming-2/affix-priming-2_draft.pdf'
-  - name: poster
+  - name: Poster
     url: 'publication/2023_affix-priming-2/affix-priming-2_SNL2023_poster.pdf'
 
 
