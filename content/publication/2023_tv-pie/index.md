@@ -26,7 +26,7 @@ publication_types: ["2"]
 projects:
 - alternations
   
-url_pdf: 'publication/2023_tv-pie/tv-2023_final_Sept2023.pdf'
+url_pdf: 'publication/2023_tv-pie/glossa-8932-tv.pdf'
 
 
 ---
