@@ -27,4 +27,4 @@ links:
 
 ---
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQ8jmjVyKM9fsHYd_gAslC26UuU8UfJqyWylojajcWtoliH6hATA2zpgfez8oMoobftT8tu1txaGFoH/embed?start=false&loop=false&delayms=30000" >}}
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTPnqXV9Es2deNuS7g5vKboWWCJZ211Ug6Z-E9od_ls2eoUEEHnElix9JJ38nLlnafLahpG_QTYu7Up/embed?start=false&loop=false&delayms=10000" >}}
