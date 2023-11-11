@@ -22,18 +22,10 @@ main:
   - name: Papers
     url: 'publication'
     weight: 30
-  - name: Courses
-    url: 'teaching'
+  - name: Teaching
+    url: 'teaching/'
     weight: 40
     identifier: teaching
-  - name: Stats with R
-    url: 'teaching/r-workshop/'
-    weight: 10
-    parent: teaching
-  - name: Science of Linguistics
-    url: 'teaching/gen-ling/'
-    weight: 20
-    parent: teaching
   - name: Pāṇīṇī
     url: 'panini/'
     weight: 50
