@@ -75,7 +75,7 @@ I am post-doctoral researcher at New York University Abu Dhabi (Abu Dhabi, Unite
 At the broadest level, my research program seeks to explore the nature of the mental representations that form the atoms of language and of the computations that compose those atoms into larger structures. I explore these two questions at the _sub-word level_ – i.e., within the domains of phonology and morphology – and, crucially, by leveraging evidence from real-time word processing using both behavioral measures (primarily, lexical decision tasks, including both visual and auditory masked priming) and electrophysiological measures (in particular, moderate- and high-density EEG). My specific current theoretical interests can be summarized in two separate questions:
 
 1. [**How rich are the phonological and morphological representations stored in the mental lexicon?**]({{< relref "/project/richness/index.md" >}})
-2. [**What is the representational and computational relationshop between morphological alternants?**]({{< relref "/project/alternations/index.md" >}})
+2. [**What is the representational and computational relationship between morphological alternants?**]({{< relref "/project/alternations/index.md" >}})
 
 I am also a freelance linguist consultant for Pole To Win UK Intl. My main duties are: linguistic annotation, phonemic transcription, text-to-speech (TTS), sound quality check, audio analysis, translation, and proofreading.
 
