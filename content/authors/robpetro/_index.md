@@ -81,7 +81,7 @@ At the broadest level, my research program seeks to explore the nature of the me
 1. [**How rich are the phonological and morphological representations stored in the mental lexicon?**]({{< relref "/project/richness/index.md" >}})
 2. [**What is the representational and computational relationship between morphological alternants?**]({{< relref "/project/alternations/index.md" >}})
 
-As of January 2024, I also hold the position of AI resident at <https://www.apziva.com>(Apziva), where I work closely with a team of expert data scientists and engineers, to elevate my proficiency in ML (with a special focus on NLP and computational linguistics), with the ultimate goal of contributing to bridging the gap between linguistic theory, cognitive psychology, and computer science. 
+As of January 2024, I also hold the position of AI resident at [Apziva](https://www.apziva.com>), where I work closely with a team of expert data scientists and engineers, to elevate my proficiency in ML (with a special focus on NLP and computational linguistics), with the ultimate goal of contributing to bridging the gap between linguistic theory, cognitive psychology, and computer science. 
 
 I am also a freelance linguist consultant for Pole To Win UK Intl. My main duties are: linguistic annotation, phonemic transcription, text-to-speech (TTS), sound quality check, audio analysis, translation, and proofreading.
 
