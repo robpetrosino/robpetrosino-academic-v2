@@ -37,9 +37,6 @@ education:
   - course: PhD in Linguistics
     institution: University of Connecticut (U.S.A.)
     year: 2020
-  - course: MA in Linguistics
-    institution: University of Connecticut (U.S.A.)
-    year: 2017
   - course: MA in Linguistics and Cognitive Sciences
     institution: Università degli Studi di Siena (Italy)
     year: 2012
