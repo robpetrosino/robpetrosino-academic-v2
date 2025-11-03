@@ -6,7 +6,7 @@ authors:
 - diogo
 tags : ["phonology", "morphology"]
 
-date: 2024-04-19
+date: 2025-11-03
 
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
@@ -15,7 +15,7 @@ profile: false  # Show author profile?
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -36,5 +36,7 @@ links:
     url: 'https://osf.io/preprints/psyarxiv/fctru_v1'
 
 ---
+
+Accepted for publication on *Language, Cognition, and Neuroscience* in November 2025.
 
 This study investigates the controversial Frequency Attenuation Effect (FAE), examining whether masked repetition priming is sensitive to word frequency. Early findings suggesting no interaction have been recently contradicted. Across two largescale experiments (N>2,600), we show that the FAE does occur in masked conditions, but its magnitude is insensitive to prime duration. This constitutes a challenge to single-stage models of word recognition. We argue that only a two-stage decisionmaking framework can accommodate this pattern. We propose that masked repetition and prime duration influence an early, automatic stage, whereas frequency flexibly affects a later processing stage. Distributional analyses of reaction times support these conclusions. We tentatively suggest that the FAE is primarily a consequence of a later decision stage, driven by a mechanism that is selectively engaged for challenging stimuli, like low-frequency words. These results help strongly constrain theoretical models of lexical access.
