@@ -26,8 +26,8 @@ main:
     url: 'teaching/'
     weight: 40
     identifier: teaching
-  - name: Pāṇīṇī
-    url: 'panini/'
+  - name: Pāṇīṇī & Morris
+    url: 'panini-morris/'
     weight: 50
 #  - name: Crossfit
 #    url: 'crossfit/'

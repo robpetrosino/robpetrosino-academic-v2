@@ -11,6 +11,19 @@ sections:
       title:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: robpetro
+  - block: collection
+    id: publication
+    content:
+       title: Latest papers & contributions
+       sort_by: 'Date'
+       count: 3
+       offset: 0
+       filters:
+         folders:
+           - publication
+    design:
+      columns: '1'
+      view: compact
   - block: people
     id: about
     content:
@@ -28,28 +41,28 @@ sections:
       show_role: false
       # Show user's organizations/affiliations?
       show_organizations: true
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          icon: r-project
-          icon_pack: fab
-        - name: javascript
-          icon: fab fa-js
-          icon_pack: fab
-        - name: python
-          icon: fab fa-python
-          icon_pack: fab
-        - name: HTML+CSS
-          icon: fas fa-code
-          icon_pack: fas
-        - name: LaTeX
-          icon: fas fa-laptop-code
-          icon_pack: fas
-        - name: Data analysis
-          icon: chart-line
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: R
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: javascript
+  #         icon: fab fa-js
+  #         icon_pack: fab
+  #       - name: python
+  #         icon: fab fa-python
+  #         icon_pack: fab
+  #       - name: HTML+CSS
+  #         icon: fas fa-code
+  #         icon_pack: fas
+  #       - name: LaTeX
+  #         icon: fas fa-laptop-code
+  #         icon_pack: fas
+  #       - name: Data analysis
+  #         icon: chart-line
+  #         icon_pack: fas
   # - block: portfolio
   #   id: projects
   #   content:
@@ -83,17 +96,4 @@ sections:
   #     view: compact
   #     # For Showcase view, flip alternate rows?
   #     #flip_alt_rows: false
-  # - block: collection
-  #   id: publication
-  #   content:
-  #     title: Papers
-  #     sort_by: 'Date'
-  #     count: 0
-  #     offset: 1
-  #     filters:
-  #       folders:
-  #         - publication
-  #   design:
-  #     columns: '2'
-  #     view: citation
 ---

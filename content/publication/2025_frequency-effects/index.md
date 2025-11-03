@@ -4,7 +4,7 @@ type : "publication"
 authors:
 - robpetro
 - diogo
-tags : ["phonology", "morphology"]
+tags : ["masked priming", "lexical access", "visual word recognition"]
 
 date: 2025-11-03
 
