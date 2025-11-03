@@ -1,5 +1,5 @@
 ---
-title : "The detection and accurate estimation of frequency attenuation effects in masked repetition priming: A large scale web browser-based study"
+title : "Stages In Lexical Decision: Frequency Attenuation In Masked Repetition Priming Is Insensitive To Prime Duration"
 type : "publication"
 authors:
 - robpetro
@@ -28,13 +28,13 @@ projects:
 links:
   - name: Poster
     url: 'publication/2023_frequency-effects/frequency-effects_SNL2023_poster.pdf'
-  - icon_pack: fab
-    icon: github
-    url: 'https://github.com/robpetrosino/frequency-effects_masked-priming'
-  - icon_pack: fa
-    icon: globe
-    url: 'https://robpetrosino.github.io/frequency-effects_masked-priming/'
+  - icon_pack: ai
+    icon: osf
+    url: 'https://osf.io/pk9mj/overview'
+  - icon_pack: ai
+    icon: psyarxiv
+    url: 'https://osf.io/preprints/psyarxiv/fctru_v1'
 
 ---
 
-This study investigates the controversy surrounding the sensitivity of masked repetition priming to word frequency: while unmasked priming exhibits a frequency attenuation effect, wherein high frequency words yield smaller repetition effects, this phenomenon has been inconsistently reported in masked priming. We conducted two large online experiments with rigorously validated frequency databases to reconcile past discrepancies. The first experiment confirmed the viability of conducting masked priming experiments in web browser-based settings. The pre-registered second study, designed for high statistical power and precision, identified a 10-ms attenuation effect under masked priming. This result suggests that the repetition effect in masked priming is less qualitatively distinct from unmasked priming than previously assumed. This finding has implications for masked priming experimental design and theoretical consequences for models of priming. Crucially, models that predict either the presence or absence of frequency attenuation under masked conditions need to account for a small but reliable effect.
+This study investigates the controversial Frequency Attenuation Effect (FAE), examining whether masked repetition priming is sensitive to word frequency. Early findings suggesting no interaction have been recently contradicted. Across two largescale experiments (N>2,600), we show that the FAE does occur in masked conditions, but its magnitude is insensitive to prime duration. This constitutes a challenge to single-stage models of word recognition. We argue that only a two-stage decisionmaking framework can accommodate this pattern. We propose that masked repetition and prime duration influence an early, automatic stage, whereas frequency flexibly affects a later processing stage. Distributional analyses of reaction times support these conclusions. We tentatively suggest that the FAE is primarily a consequence of a later decision stage, driven by a mechanism that is selectively engaged for challenging stimuli, like low-frequency words. These results help strongly constrain theoretical models of lexical access.
