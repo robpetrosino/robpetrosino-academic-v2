@@ -10,7 +10,7 @@ last_name: Petrosino
 superuser: true
 
 # Role/position/tagline
-role: Post-Doctoral Associate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ highlight_name: true
 #user_groups:
 #- Collaborators
 --- 
-I am post-doctoral researcher at New York University Abu Dhabi (Abu Dhabi, United Arab Emirates). 
+I am Research Associate at New York University Abu Dhabi (Abu Dhabi, United Arab Emirates). 
 
 At the broadest level, my research program seeks to explore the nature of the mental representations that form the atoms of language and of the computations that compose those atoms into larger structures. I explore these two questions at the _sub-word level_ – i.e., within the domains of phonology and morphology – and, crucially, by leveraging evidence from real-time word processing using both behavioral measures (primarily, lexical decision tasks, including both visual and auditory masked priming) and electrophysiological measures (in particular, moderate- and high-density EEG). My specific current theoretical interests can be summarized in two separate questions:
 
