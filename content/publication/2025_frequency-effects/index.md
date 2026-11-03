@@ -27,7 +27,7 @@ projects:
   
 links:
   - name: Poster
-    url: 'publication/2023_frequency-effects/frequency-effects_SNL2023_poster.pdf'
+    url: 'publication/2025_frequency-effects/frequency-effects_SNL2023_poster.pdf'
   - icon_pack: ai
     icon: osf
     url: 'https://osf.io/pk9mj/overview'

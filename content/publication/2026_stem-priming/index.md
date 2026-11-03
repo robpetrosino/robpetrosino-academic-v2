@@ -4,7 +4,7 @@ type : "publication"
 authors:
 - robpetro
 - diogo
-tags : ["morphology", "processing", "decomposition"]
+tags : ["morphology", "processing", "decomposition", "mental representation", "visual word recognition"]
 
 date: 2026-11-04
 
@@ -27,9 +27,9 @@ projects:
   
 links:
   - name: PPT
-    url: 'publication/2023_frequency-effects/stem-priming_presentation.pptx'
+    url: 'publication/2026_stem-priming/stem-priming_presentation.pptx'
   - name: Poster
-    url: 'publication/2023_frequency-effects/stem-priming_poster.pdf'
+    url: 'publication/2026_stem-priming/stem-priming_poster.pdf'
   - icon_pack: ai
     icon: osf
     url: 'https://osf.io/gkueq/overview?view_only=3fb2724ddef94cdba4a419a4d9710b4b'
